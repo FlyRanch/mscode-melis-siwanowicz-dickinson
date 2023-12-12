@@ -1,0 +1,21 @@
+[submodule "flynet"]
+	path = flynet
+	url = git@github.com:FlyRanch/flynet.git
+[submodule "flynet-kalman"]
+	path = flynet-kalman
+	url = git@github.com:FlyRanch/flynet-kalman.git
+[submodule "flynet-optimizer"]
+	path = flynet-optimizer
+	url = git@github.com:FlyRanch/flynet-optimizer.git
+[submodule "mpc-simulations"]
+	path = mpc-simulations
+	url = git@github.com:FlyRanch/mpc-simulations.git
+[submodule "latent-analysis"]
+	path = latent-analysis
+	url = git@github.com:FlyRanch/latent-analysis.git
+[submodule "wing-hinge-cnn"]
+	path = wing-hinge-cnn
+	url = git@github.com:FlyRanch/wing-hinge-cnn.git
+[submodule "robofly"]
+	path = robofly
+	url = git@github.com:FlyRanch/melis-etal-robofly.git
