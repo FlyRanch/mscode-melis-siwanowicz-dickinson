@@ -1,0 +1,8 @@
+*~
+*.pyc
+*.swp
+*.egg-info
+*.h5
+dist
+.ipynb_checkpoints
+plots
